@@ -10,10 +10,14 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@liveblocks/client": "^2.18.0",
     "@tailwindcss/vite": "^4.0.6",
+    "fabric": "^6.6.0",
     "nuxt": "^3.15.4",
     "tailwindcss": "^4.0.6",
+    "uuid": "^11.0.5",
     "vue": "latest",
     "vue-router": "latest"
-  }
+  },
+  "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
 }
